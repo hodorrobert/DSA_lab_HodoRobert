@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Clion_projects/DSA_lab_HodoRobert/labor2/feladat4/function.c
+function.h
+C:/Clion_projects/DSA_lab_HodoRobert/labor2/feladat4/function.h
+
+C:/Clion_projects/DSA_lab_HodoRobert/labor2/feladat4/function.h
+
+C:/Clion_projects/DSA_lab_HodoRobert/labor2/feladat4/main.c
+stdio.h
+-
+function.h
+C:/Clion_projects/DSA_lab_HodoRobert/labor2/feladat4/function.h
+

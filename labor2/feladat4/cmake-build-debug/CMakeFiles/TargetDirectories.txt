@@ -1,0 +1,3 @@
+C:/Clion_projects/DSA_lab_HodoRobert/labor2/feladat4/cmake-build-debug/CMakeFiles/feladat4.dir
+C:/Clion_projects/DSA_lab_HodoRobert/labor2/feladat4/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Clion_projects/DSA_lab_HodoRobert/labor2/feladat4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
