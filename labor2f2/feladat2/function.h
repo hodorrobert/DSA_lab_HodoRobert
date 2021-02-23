@@ -5,4 +5,6 @@
 #ifndef FELADAT2_FUNCTION_H
 #define FELADAT2_FUNCTION_H
 int maxi(int a, int b, int c);
+void vizsgal(int szam);
+void kiir();
 #endif //FELADAT2_FUNCTION_H

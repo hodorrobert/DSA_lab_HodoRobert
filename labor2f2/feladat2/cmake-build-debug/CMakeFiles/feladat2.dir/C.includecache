@@ -7,6 +7,8 @@
 #IncludeRegexTransform: 
 
 C:/Clion_projects/DSA_lab_HodoRobert/labor2f2/feladat2/function.c
+stdio.h
+-
 function.h
 C:/Clion_projects/DSA_lab_HodoRobert/labor2f2/feladat2/function.h
 
