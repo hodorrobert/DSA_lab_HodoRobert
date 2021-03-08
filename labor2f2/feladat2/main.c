@@ -9,6 +9,7 @@ int main() {
         vizsgal(x[i]);
 
     }
+
     kiir();
     //printf("%d", maxi(98,33,99));
     return 0;
